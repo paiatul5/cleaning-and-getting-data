@@ -1,8 +1,8 @@
 #This File describes the variables and Ids of the observations of the tidy dataset#
-1. ID
+1.ID
 * "Activity"
 * "Subject"
-2. Variables
+2.Variables
 * "tBodyAcc.mean...X"
 * "tBodyAcc.mean...Y"
 * "tBodyAcc.mean...Z"
