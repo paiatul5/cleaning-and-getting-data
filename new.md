@@ -2,6 +2,7 @@
 1.ID
 * "Activity"
 * "Subject"
+
 2.Variables
 * "tBodyAcc.mean...X"
 * "tBodyAcc.mean...Y"
